@@ -10,5 +10,7 @@ In this project I have simulated a Microwave Oven, which consist of 4 modes name
   <li>Convection mode</li>
   <li>Start mode</li>
 </ol>
-
+<br>
+For more detailed info about my internship journey you can view my youtube video from provided link
+https://youtu.be/swgObSQvWbw
 
